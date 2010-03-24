@@ -15,7 +15,7 @@
 
 $.extend($.ui, { datepicker: { version: "@VERSION" } });
 
-var PROP_NAME = 'datepicker';
+var PROP_NAME = "datepicker";
 var dpuuid = new Date().getTime();
 
 /* Date picker manager.
